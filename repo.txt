@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QPKG_Repository>
+    <Date>2024-02-03</Date>
+    <Maintainer>kajain99</Maintainer>
+    <Maintainer_URL>https://github.com/kajain99</Maintainer_URL>
+    <Repository_Name>Kajain99 QNAP Repo</Repository_Name>
+    <QPKG>
+        <Name>Jellyfin</Name>
+        <Version>10.8.10</Version>
+        <Arch>x86_64</Arch>
+        <QPKG_URL>https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg</QPKG_URL>
+        <MD5_Checksum></MD5_Checksum>
+        <Description>A free software media system that puts you in control of managing and streaming your media.</Description>
+        <Maintainer>kajain99</Maintainer>
+        <Maintainer_URL>https://github.com/kajain99/Jellyfin-QPKG</Maintainer_URL>
+        <QTS>4.4.0</QTS>
+        <Category>Multimedia</Category>
+        <Icon_URL>https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.png</Icon_URL>
+        <Author>kajain99</Author>
+    </QPKG>
+    <QPKG>
+        <Name>Transmission</Name>
+        <Version>4.0.6</Version>
+        <Arch>x86_64</Arch>
+        <QPKG_URL>https://github.com/kajain99/transmission-QPKG/releases/download/v1/transmission_4.0.6.qpkg</QPKG_URL>
+        <MD5_Checksum></MD5_Checksum>
+        <Description>A lightweight BitTorrent client with a simple interface and powerful features.</Description>
+        <Maintainer>kajain99</Maintainer>
+        <Maintainer_URL>https://github.com/kajain99/transmission-QPKG</Maintainer_URL>
+        <QTS>4.4.0</QTS>
+        <Category>Download</Category>
+        <Icon_URL>https://kajain99.github.io/qpkg-repo-akash/icons/transmission.png</Icon_URL>
+        <Author>kajain99</Author>
+    </QPKG>
+    <QPKG>
+        <Name>PyLoad-NG</Name>
+        <Version>0.5</Version>
+        <Arch>x86_64</Arch>
+        <QPKG_URL>https://github.com/kajain99/QPKG-for-pyload-ng/releases/download/v1.0/pyload-ng_0.5.qpkg</QPKG_URL>
+        <MD5_Checksum></MD5_Checksum>
+        <Description>A lightweight, open-source download manager for automated file downloading.</Description>
+        <Maintainer>kajain99</Maintainer>
+        <Maintainer_URL>https://github.com/kajain99/QPKG-for-pyload-ng</Maintainer_URL>
+        <QTS>4.4.0</QTS>
+        <Category>Download</Category>
+        <Icon_URL>https://kajain99.github.io/qpkg-repo-akash/icons/pyload-ng.png</Icon_URL>
+        <Author>kajain99</Author>
+    </QPKG>
+</QPKG_Repository>
