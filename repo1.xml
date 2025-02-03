@@ -1,171 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
 <plugins>
-<cachechk>202502021632</cachechk>
-<item>
-<name>iPerf3</name>
-<changeLog>https://www.myqnap.org/?post_type=product</changeLog>
-<category>MyQNAP Repo</category>
-<type>Utilities</type>
-<icon80>
-https://www.myqnap.org/wp-content/uploads/iperf_logo-80x80.gif
-</icon80>
-<icon100>
-https://www.myqnap.org/wp-content/uploads/iperf_logo-100x100.gif
-</icon100>
-<description>
-Iperf is a tool for network performance measurement and tuning. It is a cross-platform tool that can produce standardized performance measurements for any network. Iperf has client and server functionality, and can create data streams to measure the throughput between the two ends in one or both directions. here is a very good tutorial (french version) https://www.forum-nas.fr/threads/tuto-utilisation-de-iperf3-avec-un-nas-qnap.19315/ <div class="TipAuthor"><b>TIP ME !</b> Your gratitude and finance will help me to continue integration of this QPKG and maintain up to date versions. <p style="text-align: center; margin-bottom: 0px;"><a title="Donate" href="https://www.paypal.me/qoolbox" target="_blank" rel="noopener"><img style="width: 150px;" src="https://i.imgur.com/5swUHk5.png" alt="www.paypal.me/qoolbox" /></a></p> </div>
-</description>
-<fwVersion>4.2.6</fwVersion>
-<version>3.18.0</version>
-<platform>
-<platformID>TS-NASX86</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_x86_64.qpkg
-</location>
-<signature>GdHlv2Ua0f2BjGnGU9UmWQ+nsi8Wp38=</signature>
-</platform>
-<internalName>iPerf3</internalName>
-<platform>
-<platformID>TS-NASARM_64</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X16</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X28A</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X32</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X32U</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X33</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X35</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X35A</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X35EU</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-XA28A</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm_64.qpkg
-</location>
-<signature>UjfRZJEWUgI/owrmxqk2BOWLiADl8C4=</signature>
-</platform>
-<platform>
-<platformID>TS-X41</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X31P2</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X31P3</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X31X</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X31XU</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X35</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-531P</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x41.qpkg
-</location>
-<signature>NWBCGXKs3Ps/KmPopDKEtvk9iTl8kPY=</signature>
-</platform>
-<platform>
-<platformID>TS-X31</platformID>
-<location>
-https://www.myqnap.org/repo/iPerf3_3.18.0_arm-x31.qpkg
-</location>
-<signature>3LuD3vnzzFH/cu5iy5m0qURqQxtlwO0=</signature>
-</platform>
-<platform>
-<platformID>OLD_X86</platformID>
-<location>https://www.myqnap.org/repo/iPerf3_3.18.0_x86.qpkg</location>
-<signature>0tHI7JQSHA7aF0LFtHefZef9G9hSx2A=</signature>
-</platform>
-<publishedDate>2022-09-18 22:54:35</publishedDate>
-<maintainer>QoolBox</maintainer>
-<developer>QoolBox</developer>
-<forumlink>
-https://www.forum-nas.fr/threads/iperf3-server-3-11-0-network-benchmarking-tool.3345/
-</forumlink>
-<language>English</language>
-<snapshot>
-https://www.myqnap.org/wp-content/uploads/2022/09/Iperf4662.png
-</snapshot>
-<bannerImg></bannerImg>
-<tutorialLink></tutorialLink>
-</item>
+    <cachechk>202502021632</cachechk>
+
+    <item>
+        <name>Jellyfin</name>
+        <changeLog>https://github.com/kajain99/Jellyfin-QPKG</changeLog>
+        <category>Kajain99 Repo</category>
+        <type>Multimedia</type>
+        <icon80>https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.gif</icon80>
+        <icon100>https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.gif</icon100>
+        <description>Jellyfin is a free software media system that puts you in control of managing and streaming your media.</description>
+        <fwVersion>4.4.0</fwVersion>
+        <version>10.8.10</version>
+        <internalName>Jellyfin</internalName>
+        
+        <platform>
+            <platformID>x86_64</platformID>
+            <location>https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg</location>
+            <signature></signature>
+        </platform>
+		        
+        <platform>
+            <platformID>TS-X86_64</platformID>
+            <location>https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg</location>
+            <signature></signature>
+        </platform>
+		        
+        <platform>
+            <platformID>TS-x86_64</platformID>
+            <location>https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg</location>
+            <signature></signature>
+        </platform>
+		        
+		
+		
+    </item>
+
 </plugins>
