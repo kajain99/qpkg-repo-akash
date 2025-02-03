@@ -1,0 +1,50 @@
+{
+    "total": 3,
+    "data": [
+        {
+            "app_name": "Jellyfin",
+            "app_title": "Jellyfin Media Server",
+            "app_desc": "A free software media system that puts you in control of managing and streaming your media.",
+            "app_arch": "x86_64",
+            "app_version": "10.8.10",
+            "qpkg_url": "https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg",
+            "app_link": "https://github.com/kajain99/Jellyfin-QPKG",
+            "author": "kajain99",
+            "date": "2024-02-03",
+            "qts_min": "4.4.0",
+            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/jellyfin.png",
+            "app_type": "NAS",
+            "category": "Multimedia"
+        },
+        {
+            "app_name": "Transmission",
+            "app_title": "Transmission Torrent Client",
+            "app_desc": "A lightweight BitTorrent client with a simple interface and powerful features.",
+            "app_arch": "x86_64",
+            "app_version": "4.0.6",
+            "qpkg_url": "https://github.com/kajain99/transmission-QPKG/releases/download/v1/transmission_4.0.6.qpkg",
+            "app_link": "https://github.com/kajain99/transmission-QPKG",
+            "author": "kajain99",
+            "date": "2024-02-03",
+            "qts_min": "4.4.0",
+            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/transmission.png",
+            "app_type": "NAS",
+            "category": "Download"
+        },
+        {
+            "app_name": "PyLoad-NG",
+            "app_title": "PyLoad-NG Download Manager",
+            "app_desc": "A lightweight, open-source download manager for automated file downloading.",
+            "app_arch": "x86_64",
+            "app_version": "0.5",
+            "qpkg_url": "https://github.com/kajain99/QPKG-for-pyload-ng/releases/download/v1.0/pyload-ng_0.5.qpkg",
+            "app_link": "https://github.com/kajain99/QPKG-for-pyload-ng",
+            "author": "kajain99",
+            "date": "2024-02-03",
+            "qts_min": "4.4.0",
+            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/pyload-ng.png",
+            "app_type": "NAS",
+            "category": "Download"
+        }
+    ]
+}
