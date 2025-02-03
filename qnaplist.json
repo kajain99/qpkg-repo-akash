@@ -12,7 +12,7 @@
             "author": "kajain99",
             "date": "2024-02-03",
             "qts_min": "4.4.0",
-            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/jellyfin.png",
+            "app_icon_url": "https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.gif",
             "app_type": "NAS",
             "category": "Multimedia"
         },
@@ -27,7 +27,7 @@
             "author": "kajain99",
             "date": "2024-02-03",
             "qts_min": "4.4.0",
-            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/transmission.png",
+            "app_icon_url": "https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.gif",
             "app_type": "NAS",
             "category": "Download"
         },
@@ -42,7 +42,7 @@
             "author": "kajain99",
             "date": "2024-02-03",
             "qts_min": "4.4.0",
-            "app_icon_url": "https://yourgithubusername.github.io/qnap-repo/icons/pyload-ng.png",
+            "app_icon_url": "https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.gif",
             "app_type": "NAS",
             "category": "Download"
         }
