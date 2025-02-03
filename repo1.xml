@@ -1,0 +1,20 @@
+<QPKG_Repository>
+    <Date>2024-02-03</Date>
+    <Maintainer>kajain99</Maintainer>
+    <Maintainer_URL>https://github.com/kajain99</Maintainer_URL>
+    <Repository_Name>Test Repo</Repository_Name>
+    <QPKG>
+        <Name>Jellyfin</Name>
+        <Version>10.8.10</Version>
+        <Arch>x86_64</Arch>
+        <QPKG_URL>https://github.com/kajain99/Jellyfin-QPKG/releases/download/v1.0.0/Jellyfin_10.8.10.qpkg</QPKG_URL>
+        <MD5_Checksum></MD5_Checksum>
+        <Description>A free media system that puts you in control.</Description>
+        <Maintainer>kajain99</Maintainer>
+        <Maintainer_URL>https://github.com/kajain99/Jellyfin-QPKG</Maintainer_URL>
+        <QTS>4.4.0</QTS>
+        <Category>Multimedia</Category>
+        <Icon_URL>https://kajain99.github.io/qpkg-repo-akash/icons/jellyfin.png</Icon_URL>
+        <Author>kajain99</Author>
+    </QPKG>
+</QPKG_Repository>
